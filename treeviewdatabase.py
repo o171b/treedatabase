@@ -6,7 +6,7 @@ from tkinter import colorchooser
 
 
 root = Tk()
-root.title('Codemy.com - TreeBase')
+root.title('TestDB')
 root.geometry("1000x550")
 
 def primary_color():
@@ -577,5 +577,3 @@ query_database()
 
 root.mainloop()
 
-
-# https://www.youtube.com/watch?v=odt87CeLlro&t=105s video 182
